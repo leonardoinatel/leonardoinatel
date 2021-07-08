@@ -3,7 +3,7 @@
 
 ##  I’m currently studying at **Trybe** to become a **Full-Stack Developer** by March 2021! 🚀
 #### It's nice to have you on board :)
-<img src="https://ml3cn65q37pc.i.optimole.com/04YMEC0-KbEtBMTp/w:800/h:600/q:70/https://contabilidade.zconti.com.br/wp-content/uploads/2020/04/3-passos-para-abrir-uma-empresa-de-TI.gif" width="300" height="250"/>
+
 
 ------------
 
